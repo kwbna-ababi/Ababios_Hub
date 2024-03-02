@@ -2,7 +2,7 @@
 - 👀 I’m interested in knowing new stuffs
 - 🌱 I’m currently learning cloud computing
 - 💞️ I’m looking to collaborate on cloud computing solutions
-- 📫 reach me on kwabena44@gmail.com 
+- 📫 reach me on dkwabena44@gmail.com 
 - ⚡ Fun fact: Ababio has taste buds for spicy african cousins.
 
 <!---
