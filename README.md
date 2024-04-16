@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning cloud computing
 - 💞️ I’m looking to collaborate on cloud computing solutions
 - 📫 reach me on dkwabena44@gmail.com 
-- ⚡ Fun fact: Ababio has taste buds for spicy african cousins.
+- ⚡ Fun fact: Ababio has taste buds for spicey african cousins.
 
 <!---
 kwbna-ababi/kwbna-ababi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
