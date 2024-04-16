@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bright Darko Ababio
-- 👀 I’m interested in knowing new stuffs
-- 🌱 I’m currently learning cloud computing
+- 👀 I’m interested in lerning new stuffs in cloud computing and DevOps
+- 🌱 I’m currently a cloud computing student with Alx and JOMACs IT.
 - 💞️ I’m looking to collaborate on cloud computing solutions
 - 📫 reach me on dkwabena44@gmail.com 
 - ⚡ Fun fact: Ababio has taste buds for spicey african cousins.
