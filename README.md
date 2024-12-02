@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Bright Darko Ababio.
-- 👀 I’m Solutions Architect. 2x AWS certified.
-- 💞️ I’m looking to collaborate on cloud computing solutions.
-- 📫 reach me on dkwabena44@gmail.com.
+- 👀 A Solutions Architect. 2x AWS certified.
+- 💞️ I look forward to collaborate on cloud computing solutions.
+- 📫 drop a message on dkwabena44@gmail.com.
 - ⚡ Fun fact: Ababio has taste buds for spicey african cousins.
 
 <!---
